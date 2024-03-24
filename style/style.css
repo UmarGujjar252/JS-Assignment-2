@@ -1,0 +1,11 @@
+body {
+    background-color: #f0faef;
+}
+
+header, footer {
+    background-color: #1d3557;
+}
+
+main div>button {
+    margin: 2px;
+}
